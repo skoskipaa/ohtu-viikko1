@@ -1,1 +1,3 @@
-**Esimerkkitiedosto numero 3.
+**Esimerkkitiedosto numero 3.    
+Muutoksia tiedostoon.
+

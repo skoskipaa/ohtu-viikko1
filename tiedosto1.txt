@@ -1,1 +1,2 @@
 Esimerkkitiedosto numero 1.
+Vain muutos on pysyvää.
