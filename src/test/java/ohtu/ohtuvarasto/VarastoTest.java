@@ -30,6 +30,7 @@ public class VarastoTest {
         assertEquals(10, varasto.getTilavuus(), vertailuTarkkuus);
     }
     
+    //Konstruktoritestejä
     @Test
     public void eiNegatiivistaKonstruktoria() {
         Varasto varasto2 = new Varasto(-3.0);
