@@ -31,9 +31,9 @@ public class VarastoTest {
     }
     
     @Test
-    public void eiNegatiivistaKonstruktoria() { //
+    public void eiNegatiivistaKonstruktoria() {
         Varasto varasto2 = new Varasto(-3.0);
-        assertEquals(5, varasto2.getTilavuus(), vertailuTarkkuus);
+        assertEquals(0, varasto2.getTilavuus(), vertailuTarkkuus);
     }
     
     @Test
