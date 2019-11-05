@@ -4,6 +4,7 @@ import ohtu.ohtuvarasto.Varasto;
 
 public class Main {
 
+    //CHECKSTYLE:OFF
     public static void main(String[] args) {
 
         Varasto mehua = new Varasto(100.0);
@@ -57,4 +58,5 @@ public class Main {
         System.out.println("saatiin " + saatiin);
         System.out.println("Mehuvarasto: " + mehua);
     }
+    //CHECKSTYLE:ON
 }
