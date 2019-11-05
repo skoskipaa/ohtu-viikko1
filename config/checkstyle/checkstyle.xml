@@ -23,10 +23,6 @@
 
         <module name="SuppressionCommentFilter"/>
 
-        <module name="Checker">
-            <property name="severity" value="warning" />
-        </module>
-
     </module>
 
 </module>
